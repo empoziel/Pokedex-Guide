@@ -1,0 +1,7 @@
+# POKEDEX GUIDE
+
+## USED TECHNOLOGİES
+
+- HTML ,CSS , JAVASCRİPT
+
+![](/project.gif)
